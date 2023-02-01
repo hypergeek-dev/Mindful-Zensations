@@ -7,7 +7,6 @@ This website provides information and resources on mindfulness, meditation, and 
 
 Mindfulness and meditation have been shown to affect mental health in a number of ways. Research has found that practicing mindfulness and meditation can help reduce symptoms of stress, anxiety, and depression, as well as improve mood, emotional regulation, and cognitive functioning.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
 
