@@ -92,9 +92,20 @@ All written content has authentic basis, yet improved linguistically by open.ai
 
 ### Colorscheme
 
-Colorscheme has a triadic approach, based on the color-range from "Heliotrope Gray" to "Purple Navy" as demonstrated below.
+The colorscheme has a triadic approach, based on the color-range from "Heliotrope Gray" to "Purple Navy" as demonstrated below.
+(https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/Elements/Wireframe/colorscheme.jpg)
 
+### colorpalette
 
+(https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/Elements/Wireframe/5c3d5b.jpg)
+(https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/Elements/Wireframe/8B875b.jpg)
+(https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/Elements/Wireframe/637b51.jpg)
 
+### Wireframe
 
+(https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/Elements/Wireframe/Phone.png)
+(https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/Elements/Wireframe/Landing page.png)
+(https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/Elements/Wireframe/Info.png)
+(https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/Elements/Wireframe/Links.png)
+(https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/Elements/Wireframe/About Me.png)
 
