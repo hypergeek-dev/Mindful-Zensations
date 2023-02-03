@@ -1,87 +1,127 @@
 body {
 
-    background-color: #5c3d5b;
+  background-color: #5c3d5b;
+  margin: 0;
+  padding:0;
 }
-@font-face {
-    font-family: 'opendyslexicregular';
-    src: url('/assets/font/opendyslexic-regular-webfont.woff2') format('woff2'),
-         url('/assets/font/opendyslexic-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
 
+@font-face {
+  font-family: 'opendyslexicregular';
+  src: url('/assets/font/opendyslexic-regular-webfont.woff2') format('woff2'),
+    url('/assets/font/opendyslexic-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+header{
+  display:inline-block;
+  height:10px;
+  padding:0;
+  border:0;
+  margin:0;
+}
+
+header h1{
+  position: absolute;
 }
 
 /** Navbar **/
 
 nav {
-    background-color:white; 
-    margin: auto;
-  }
-  
-  a{
-    background-color: #8B875b;
-     color: black;
-    width:300px;
+  background-color: white;
+  margin: auto;
+  padding:0;
+  position: absolute;
+}
+
+a {
+  background-color: #8B875b;
+  color: black;
+
+  width: 150px;
   box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
-  }
-  
-  p {
-    margin:0;
-   font-size:35px;
-   font-family: 'opendyslexicregular';
-  }
-  
-  
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    background-color: grey;
-     border-style: solid 1px;
-   
-  }
-  
-  li {
-    position: relative;
-    float: left;
-    border-right: 1px solid #bbb;
-   
-  
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  
-  }
-  
-  li a:hover {
-    background-color: #637b51;
-  }
-  
-  li ul {
-    position: absolute;
-    display: none;
-    top: 100%;
-    left: 0;
-     border-right: 10px;
-  }
-  
-  li:hover ul {
-    display: block;
-  }
-  .active {
-    background-color: #04AA6D;
-  }
+}
 
-/** End of nav-bar **/ 
+p {
+  margin: 0;
+  font-size: 15px;
+  font-family: 'opendyslexicregular';
+}
 
-/** Hero - landing page **/ 
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: grey;
+  border-style: solid 1px;
+  
+
+}
+
+li {
+  position: relative;
+  float: left;
+  border-right: 1px solid #bbb;
+
+
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 0;
+  text-decoration: none;
+
+}
+
+li a:hover {
+  background-color: #637b51;
+}
+
+li ul {
+  position: absolute;
+  display: none;
+  top: 100%;
+  left: 0;
+  border-right: 10px;
+}
+
+li:hover ul {
+  display: block;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+/** End of nav-bar **/
+
+/** Hero - landing page **/
 
 #lp_hero {
+  height: 700px;
+  width: 100%;
+  padding-top:200px;
+  overflow: hidden;
+  object-position: bottom;
+}
+
+#lp_hero img {
+  background: url('/assets/images/land_page.jpg') no-repeat center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/** Hero - mindfulness page **/
+
+#mf_hero {
   height: 525px;
   width: 100%;
   overflow: hidden;
@@ -89,24 +129,17 @@ nav {
 }
 
 
-
-#lp_hero img{
-  background: url('/assets/images/land_page.jpg') no-repeat center ;
+#mf_hero img {
+  background: url('/assets/images/mind_page.jpg') no-repeat center;
   background-size: cover;
   height: 100%;
   width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-/** Hero - mindfulness page **/ 
-
-#mf_hero img{
-  background: url('/assets/images/mind_page.jpg') no-repeat center ;
-  background-size: cover;
-  height: 100%;
-  width: 100%;
-}
-
-/** Hero - meditation page **/ 
+/** Hero - meditation page **/
 
 #mt_hero {
   height: 525px;
@@ -115,7 +148,17 @@ nav {
   object-position: bottom;
 }
 
-/** Hero - About Me page **/ 
+#mt_hero img {
+  background: url('/assets/images/med_page.jpg') no-repeat center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/** Hero - About Me page **/
 
 #am_hero {
   height: 525px;
@@ -125,9 +168,12 @@ nav {
 }
 
 
-#am_hero img{
-  background: url('/assets/images/aboutme_page.jpg') no-repeat center ;
+#am_hero img {
+  background: url('/assets/images/aboutme_page.jpg') no-repeat center;
   background-size: cover;
   height: 100%;
   width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
