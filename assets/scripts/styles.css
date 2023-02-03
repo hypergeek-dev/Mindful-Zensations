@@ -78,3 +78,56 @@ nav {
   }
 
 /** End of nav-bar **/ 
+
+/** Hero - landing page **/ 
+
+#lp_hero {
+  height: 525px;
+  width: 100%;
+  overflow: hidden;
+  object-position: bottom;
+}
+
+
+
+#lp_hero img{
+  background: url('/assets/images/land_page.jpg') no-repeat center ;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+/** Hero - mindfulness page **/ 
+
+#mf_hero img{
+  background: url('/assets/images/mind_page.jpg') no-repeat center ;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+/** Hero - meditation page **/ 
+
+#mt_hero {
+  height: 525px;
+  width: 100%;
+  overflow: hidden;
+  object-position: bottom;
+}
+
+/** Hero - About Me page **/ 
+
+#am_hero {
+  height: 525px;
+  width: 100%;
+  overflow: hidden;
+  object-position: bottom;
+}
+
+
+#am_hero img{
+  background: url('/assets/images/aboutme_page.jpg') no-repeat center ;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
