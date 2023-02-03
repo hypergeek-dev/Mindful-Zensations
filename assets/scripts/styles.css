@@ -1,0 +1,60 @@
+body {
+
+    background-color: #5c3d5b;
+}
+
+
+/** Navbar **/
+
+nav {
+    background-color: white;
+}
+
+a {
+    background-color: grey;
+    color: black;
+    width: 200px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    border-style: solid 1px;
+}
+
+li {
+    position: relative;
+    float: left;
+    border-right: 1px solid #bbb;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+li ul {
+    position: absolute;
+    display: none;
+    top: 100%;
+    left: 0;
+}
+
+li:hover ul {
+    display: block;
+}
+
+.active {
+    background-color: #04AA6D;
+}
+
+/** End of nav-bar **/ 
