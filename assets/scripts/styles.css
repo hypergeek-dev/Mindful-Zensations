@@ -2,59 +2,79 @@ body {
 
     background-color: #5c3d5b;
 }
+@font-face {
+    font-family: 'opendyslexicregular';
+    src: url('/assets/font/opendyslexic-regular-webfont.woff2') format('woff2'),
+         url('/assets/font/opendyslexic-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
+}
 
 /** Navbar **/
 
 nav {
-    background-color: white;
-}
-
-a {
-    background-color: grey;
-    color: black;
-    width: 200px;
-}
-
-ul {
+    background-color:white; 
+    margin: auto;
+  }
+  
+  a{
+    background-color: #8B875b;
+     color: black;
+    width:300px;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+  }
+  
+  p {
+    margin:0;
+   font-size:35px;
+   font-family: 'opendyslexicregular';
+  }
+  
+  
+  ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     background-color: grey;
-    border-style: solid 1px;
-}
-
-li {
+     border-style: solid 1px;
+   
+  }
+  
+  li {
     position: relative;
     float: left;
     border-right: 1px solid #bbb;
-}
-
-li a {
+   
+  
+  }
+  
+  li a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-}
-
-li a:hover {
-    background-color: #111;
-}
-
-li ul {
+  
+  }
+  
+  li a:hover {
+    background-color: #637b51;
+  }
+  
+  li ul {
     position: absolute;
     display: none;
     top: 100%;
     left: 0;
-}
-
-li:hover ul {
+     border-right: 10px;
+  }
+  
+  li:hover ul {
     display: block;
-}
-
-.active {
+  }
+  .active {
     background-color: #04AA6D;
-}
+  }
 
 /** End of nav-bar **/ 
