@@ -106,6 +106,46 @@ li:hover ul {
   background-color: #04AA6D;
 }
 
+#text_box_landingpage{
+  display:inline-block;
+  width:80vh;
+  height:61.25vh;
+  position: absolute;
+  right:10vh;
+  top:18.75vh;
+  background: linear-gradient(90deg, rgba(139, 135, 91,1) 32%, rgba(99,123,81,1) 72%);
+  border-radius: 25% 10% 25% 0;
+  opacity:0.7;
+  z-index: 1;
+}
+
+  #innerbox-landingpage {
+    display:inline-block;
+    width:77.5vh;
+    height:60vh;
+    background-color: #ffffff;  background: linear-gradient(90deg, rgba(162,149,162,1) 32%, rgba(255, 254, 248,0.7) 72%); z-index: 2;
+    position:absolute;
+    right:12.5vh;
+    top:20vh;
+    border-top: solid 5px;
+    border-right:solid 5px;
+    border-color:#8b875b;
+    border-radius: 25% 10% 25% 0;
+    z-index: 2;
+  
+}
+
+#text-div{
+  font-family: 'opendyslexicregular';
+  width:70vh;
+  position:absolute;
+  margin-left: 127.4vh;
+  margin-top:22vh;
+  z-index: 3;
+}
+
+
+
 footer {
 
 width:100%;
