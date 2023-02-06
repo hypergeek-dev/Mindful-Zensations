@@ -61,7 +61,9 @@ Guided meditation recordings
 
 
 ### Validator Testing 
-
+html From line 68, column 15; to line 68, column 20
+css 122		Värdefel : right Alltför många värden eller värden kan kännas igen : 2.5 0.5vh
+  </audio></div>↩   ↩ 
 
 
 ### Unfixed Bugs
