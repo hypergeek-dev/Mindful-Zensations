@@ -144,8 +144,7 @@ li:hover ul {
   font-weight: 800;
 }
 
-<!--Sun animation-->
-
+  /** sun animation **/
 #sun {
   display:inline-block;
   position:absolute;
