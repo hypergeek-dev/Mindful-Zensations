@@ -40,10 +40,10 @@ h1{
 nav {
   display: inline-block;
   position: absolute;
-  left:116vh;
   max-width: 320vh;
-  margin: 0 0 auto auto;
   z-index: 4;
+  right:0;
+  top:0;
 }
 
 a {
@@ -131,8 +131,8 @@ li:hover ul {
   font-family: 'opendyslexicregular';
   width:74vh;
   position:absolute;
-  margin-left: 119vh;
-  margin-top:24vh;
+  right:12.5vh;
+  top:22vh;
   z-index: 7;
 }
 #text-div > h4 {
