@@ -115,6 +115,8 @@ li:hover ul {
 
 .active {
   background-color: #04AA6D;
+
+  /** End of nav-bar **/
 }
 #text_box_landingpage{
   display:inline-block;
@@ -147,14 +149,20 @@ li:hover ul {
 
 #text-div{
   font-family: 'opendyslexicregular';
-  width:70vh;
+  width:74vh;
   position:absolute;
-  margin-left: 125vh;
-  margin-top:22vh;
+  margin-left: 119vh;
+  margin-top:24vh;
   z-index: 7;
 }
-
-/** End of nav-bar **/
+#text-div > h4 {
+  font-size: 2.5vh;
+  font-weight: 700;
+}
+#text-div > p {
+  font-size:1.5vh;
+  font-weight: 800;
+}
 
 
 
@@ -186,7 +194,10 @@ box-shadow: 0px 0px 105px 45px rgba(255,126,56,0.9);
         background-position: 0% 50%;
     }
 }
-
+audio{
+  position: fixed;
+  bottom:5.5vh;
+}
 
 footer {
   border-top:groove 5px #8b875b;
