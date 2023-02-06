@@ -1,5 +1,4 @@
 body {
-
   background-color: #637b51;
   display: flex;
   flex-direction: column;
@@ -14,14 +13,13 @@ body {
     url('/assets/font/opendyslexic-regular-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-
 }
 
 header{
-
-display: sticky;
-width:100%;
-margin:0;
+position: sticky;
+  width:100%;
+  margin:0;
+  position: relative;
 }
 
 h1{
@@ -35,31 +33,24 @@ h1{
   font-size: 3rem;
   background: white;
   transform: rotate(-2deg);
-
 }
 
 /** Navbar **/
 
 nav {
   display: inline-block;
-position: absolute;
-left:116vh;
-max-width: 320vh;
-margin: 0 0 auto auto;
-z-index: 4;
+  position: absolute;
+  left:116vh;
+  max-width: 320vh;
+  margin: 0 0 auto auto;
+  z-index: 4;
 }
 
 a {
-background: rgb(99,123,81);
-background: -moz-linear-gradient(90deg, rgba(99,123,81,1) 32%, rgba(130,151,114,1) 72%);
-background: -webkit-linear-gradient(90deg, rgba(99,123,81,1) 32%, rgba(130,151,114,1) 72%);
-background: linear-gradient(90deg, rgba(99,123,81,1) 32%, rgba(130,151,114,1) 72%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#637b51",endColorstr="#829772",GradientType=1);
-
-
+  background: rgb(99,123,81);
+  background: linear-gradient(90deg, rgba(99,123,81,1) 32%, rgba(130,151,114,1) 72%);
   width: 20vh;
   box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
-  
 }
 
 p {
@@ -68,22 +59,17 @@ p {
   font-family: 'opendyslexicregular';
 }
 
-
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   border: solid 1px;
-  
-
 }
 
 li {
   position: relative;
   float: left;
   border-right: 1px solid #bbb;
-
-
 }
 
 li a {
@@ -92,21 +78,15 @@ li a {
   text-align: center;
   padding: 1vh;
   text-decoration: none;
-
 }
 
 li a:hover {
-background: rgb(204,202,173);
-background: -moz-linear-gradient(90deg, rgba(204,202,173,1) 32%, rgba(139,135,91,1) 72%);
-background: -webkit-linear-gradient(90deg, rgba(204,202,173,1) 32%, rgba(139,135,91,1) 72%);
-background: linear-gradient(90deg, rgba(204,202,173,1) 32%, rgba(139,135,91,1) 72%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#cccaad",endColorstr="#8b875b",GradientType=1);
+  background: linear-gradient(90deg, rgba(204,202,173,1) 32%, rgba(139,135,91,1) 72%);
   color: black;
 }
 
 li ul {
   position: absolute;
-
 }
 
 li:hover ul {
@@ -115,11 +95,9 @@ li:hover ul {
 
 .active {
   background-color: #04AA6D;
-
   /** End of nav-bar **/
-
-  <!--Hero segment-->
 }
+/** Hero_segment-**/
 #text_box_landingpage{
   display:inline-block;
   width:80vh;
@@ -216,6 +194,6 @@ opacity:0.7;}
 <!--Footer-->
 
 footer > img {
-  height:100px;
+  max-width:100px;
 
 }
