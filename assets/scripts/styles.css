@@ -133,7 +133,7 @@ li:hover ul {
   font-family: 'opendyslexicregular';
   width:74vh;
   position:absolute;
-  right:0.5vh;
+  right:1vh;
   top:2.5vh;
   z-index: 7;
 }
@@ -142,7 +142,7 @@ li:hover ul {
   font-weight: 700;
 }
 #text-div > p {
-  font-size:1.5vh;
+  font-size:1.6vh;
   font-weight: 800;
 }
 
