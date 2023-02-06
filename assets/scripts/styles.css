@@ -5,6 +5,7 @@ body {
   flex-direction: column;
   margin:0;
   padding:0;
+  min-height: 100vh;
 }
 
 @font-face {
@@ -23,8 +24,18 @@ width:100%;
 margin:0;
 }
 
-header h1{
+h1{
+  font-family: 'opendyslexicregular';
   position: absolute;
+  left:10vh;
+  top:2vh;
+  text-shadow: 5px 5px #b3b3b3;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+  font-size: 3rem;
+  background: white;
+  transform: rotate(-2deg);
+
 }
 
 /** Navbar **/
@@ -32,6 +43,7 @@ header h1{
 nav {
   display: inline-block;
 position: absolute;
+left:116vh;
 max-width: 320vh;
 margin: 0 0 auto auto;
 z-index: 4;
@@ -95,7 +107,6 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#cccaad",endCo
 li ul {
   position: absolute;
 
-  
 }
 
 li:hover ul {
@@ -105,36 +116,6 @@ li:hover ul {
 .active {
   background-color: #04AA6D;
 }
-#nav_wrap{
-  display:inline-block;
-  width:100%;
-  height:10vh;
- 
-  right:0vh;
-  top:0;
-  background: linear-gradient(90deg, rgba(139, 135, 91,1) 32%, rgba(99,123,81,1) 72%);
-  border-radius: 0 0 0 25%;
-  opacity:0.7;
-
-    z-index: 5;
-
-}
-
-  #nav_2nd_wrap {
-    display:inline-block;
-    width:100%;
-    height:5.5vh;
-    background-color: #ffffff;  background: linear-gradient(90deg, rgba(162,149,162,1) 32%, rgba(255, 254, 248,0.7) 72%); z-index: 2;
-    position:absolute;
-    right:0.5vh;
-    top:0h;
-    border-bottom: solid 5px;
-    border-color:#8b875b;
-    border-radius: 0 0 0 25%;
-  
-  z-index: 3;
-}
-
 #text_box_landingpage{
   display:inline-block;
   width:80vh;
@@ -145,7 +126,6 @@ li:hover ul {
   background: linear-gradient(90deg, rgba(139, 135, 91,1) 32%, rgba(99,123,81,1) 72%);
   border-radius: 25% 10% 25% 0;
   opacity:0.7;
-  filter: blur(0.5px);
   z-index: 5;
 }
 
@@ -169,15 +149,53 @@ li:hover ul {
   font-family: 'opendyslexicregular';
   width:70vh;
   position:absolute;
-  margin-left: 127.4vh;
+  margin-left: 125vh;
   margin-top:22vh;
   z-index: 7;
 }
 
+/** End of nav-bar **/
+
+
+
+#sun {
+  display:inline-block;
+  position:absolute;
+left:78vh;
+top:43.5vh;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+    background: linear-gradient(-45deg, #cc5151, #ff7e38, #F2B1A2, #F17022, #740909);
+    background-size: 400% 400%;
+ -webkit-box-shadow:0px 0px 105px 45px rgba(255,126,56,0.9);
+-moz-box-shadow: 0px 0px 105px 45px rgba(255,126,56,0.9);
+box-shadow: 0px 0px 105px 45px rgba(255,126,56,0.9);
+    animation: gradient 15s ease infinite;
+      filter: blur(5px) ;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
 
 
 footer {
+  border-top:groove 5px #8b875b;
+ text-align: center;
+  position: fixed;
+  height:5vh;
+  bottom: 0;
+  right: 0;
+  width: 100%;
 
-width:100%;
-}
-/** End of nav-bar **/
+  background: linear-gradient(90deg, rgba(139, 135, 91,1) 32%, rgba(99,123,81,1) 72%);
+opacity:0.7;}
