@@ -1,10 +1,10 @@
+/** Based on 1600x992 screen **/
+
 body {
   background-color: #637b51;
-  display: flex;
-  flex-direction: column;
   margin:0;
   padding:0;
-  min-height: 100vh;
+  height:90vh;
 }
 
 @font-face {
@@ -14,29 +14,6 @@ body {
   font-weight: normal;
   font-style: normal;
 }
-/**
-320px — 480px: Mobile devices
-481px — 768px: iPads, Tablets
-769px — 1024px: Small screens, laptops
-1025px — 1200px: Desktops, large screens
-1201px
-
-@media (max-width: 480px) {
-	// custom CSS
-}
-
-@media (max-width: 768px) {
-	// custom CSS
-
-
-@media (max-width: 1024px) {
-	// custom CSS
-}
-
-@media (max-width: 1200px) {
-	// custom CSS
-}
-**/
 
 header{
 position: sticky;
@@ -44,78 +21,19 @@ position: sticky;
   margin:0;
   position: relative;
 }
-
-@media screen and (max-width:730px){
-  li a{
-    padding:0.5vh;
+/** Headline **/
+h1{
+  font-family: 'opendyslexicregular';
+  position: absolute;
+  margin-left:3vh;
+  top:7vh;
+  text-shadow: 5px 5px #b3b3b3;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+  font-size: 5vh;
+  background: white;
+  transform: rotate(-2deg);
   }
-  h1{
-    margin: 67px 0;
-    left: auto;
-    text-align: center;
-  }
-  #text_box_landingpage{
-    top: 36vh;
-    right: auto;
-    width: 100%;
-  }
-  #innerbox-landingpage{
-    width: 100%;
-  }
-  #text-div{
-    width: auto;
-    left: 5vh;
-  }
-  footer{
-    
-  }
-}
-
-
-/** Navbar media screen and (min-width:480px){
-  h1{
-    font-family: 'opendyslexicregular';
-    position: absolute;
-    left:7vh;
-    top:4vh;
-    text-shadow: 5px 5px #b3b3b3;
-    text-transform: uppercase;
-    color: rgb(0, 0, 0);
-    font-size: 3vh;
-    background: white;
-    }
-}
-
-**/
-@media screen and (min-width: 1715px) { 
-  
-
-  h1{
-    font-family: 'opendyslexicregular';
-    position: absolute;
-    left:7vh;
-    top:4vh;
-    text-shadow: 5px 5px #b3b3b3;
-    text-transform: uppercase;
-    color: rgb(0, 0, 0);
-    font-size: 5vh;
-    background: white;
-    transform: rotate(-2deg);
-    }
-  }
-  
-  h1{
-    font-family: 'opendyslexicregular';
-    position: absolute;
-    left:7vh;
-    top:4vh;
-    text-shadow: 5px 5px #b3b3b3;
-    text-transform: uppercase;
-    color: rgb(0, 0, 0);
-    font-size: 5vh;
-    background: white;
-    }
-
 /** Navbar **/
 
 nav {
@@ -134,7 +52,7 @@ nav a {
   box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
 }
 
-p {
+nav p {
   margin: 0;
   font-size: 2.5vh;
   font-family: 'opendyslexicregular';
@@ -178,7 +96,6 @@ li:hover ul {
   background-color: #04AA6D;
 
 }
-  /** End of nav-bar **/
 
 /** Hero_segment-**/
 #text_box_landingpage{
@@ -229,20 +146,22 @@ li:hover ul {
 
   /** sun animation **/
 #sun {
-  display:inline-block;
-  position:fixed;
-left:77.5vh;
-top:43.5vh;
+  display: inline-block;
+  position: absolute;
+  top: 43.5%;
+  right: 60%;
+  bottom: 53.5%;
+  left: 37%;
   border-radius: 50%;
-  height: 5vh;
-  width: 5vh;
-    background: linear-gradient(-45deg, #cc5151, #ff7e38, #F2B1A2, #F17022, #740909);
-    background-size: 400% 400%;
- -webkit-box-shadow:0px 0px 105px 45px rgba(255,126,56,0.9);
--moz-box-shadow: 0px 0px 105px 45px rgba(255,126,56,0.9);
-box-shadow: 0px 0px 105px 45px rgba(255,126,56,0.9);
-    animation: gradient 15s ease infinite;
-      filter: blur(5px) ;
+  height: 3%;
+  width: 3%;
+  background: linear-gradient(-45deg, #cc5151, #ff7e38, #F2B1A2, #F17022, #740909);
+  background-size: 400% 400%;
+  -webkit-box-shadow: 0px 0px 105px 45px rgb(255 126 56 / 90%);
+  -moz-box-shadow: 0px 0px 105px 45px rgba(255,126,56,0.9);
+  box-shadow: 0px 0px 105px 45px rgb(255 126 56 / 90%);
+  animation: gradient 15s ease infinite;
+  filter: blur(5px);
 }
 
 @keyframes gradient {
@@ -258,17 +177,16 @@ box-shadow: 0px 0px 105px 45px rgba(255,126,56,0.9);
 }
 audio{
   position: absolute;
-  bottom:0;
   left:0;
+
   
 }
-
   /** Footer **/
 footer {
   border-top:groove 5px #8b875b;
  text-align: center;
-  position: relative;
-  height:13vh;
+  position: fixed;
+  height:5vh;
   bottom: 0;
   right: 0;
   width: 100%;
@@ -286,4 +204,5 @@ footer img {
   position:absolute;
   right:0;
   bottom:0;
+  height:45px;
 }
