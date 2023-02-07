@@ -31,14 +31,14 @@ position: sticky;
     text-shadow: 5px 5px #b3b3b3;
     text-transform: uppercase;
     color: rgb(0, 0, 0);
-    font-size: 4vh;
+    font-size: 3vh;
     background: white;
     }
 }
 
 @media screen and (min-width: 1715px) { 
   
-}
+
   h1{
     font-family: 'opendyslexicregular';
     position: absolute;
@@ -51,6 +51,7 @@ position: sticky;
     background: white;
     transform: rotate(-2deg);
     }
+  }
   
   h1{
     font-family: 'opendyslexicregular';
