@@ -22,18 +22,47 @@ position: sticky;
   position: relative;
 }
 
-h1{
-  font-family: 'opendyslexicregular';
-  position: absolute;
-  left:10vh;
-  top:2vh;
-  text-shadow: 5px 5px #b3b3b3;
-  text-transform: uppercase;
-  color: rgb(0, 0, 0);
-  font-size: 5vh;
-  background: white;
-  transform: rotate(-2deg);
+@media screen and (min-width:792px){
+  h1{
+    font-family: 'opendyslexicregular';
+    position: absolute;
+    left:7vh;
+    top:4vh;
+    text-shadow: 5px 5px #b3b3b3;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    font-size: 4vh;
+    background: white;
+    }
 }
+
+@media screen and (min-width: 1715px) { 
+  
+}
+  h1{
+    font-family: 'opendyslexicregular';
+    position: absolute;
+    left:7vh;
+    top:4vh;
+    text-shadow: 5px 5px #b3b3b3;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    font-size: 5vh;
+    background: white;
+    transform: rotate(-2deg);
+    }
+  
+  h1{
+    font-family: 'opendyslexicregular';
+    position: absolute;
+    left:7vh;
+    top:4vh;
+    text-shadow: 5px 5px #b3b3b3;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    font-size: 5vh;
+    background: white;
+    }
 
 /** Navbar **/
 
@@ -106,7 +135,7 @@ li:hover ul {
   height:61.25vh;
   position: absolute;
   right:10vh;
-  top:18.75vh;
+  top:21.75vh;
   background: linear-gradient(90deg, rgba(139, 135, 91,1) 32%, rgba(99,123,81,1) 72%);
   border-radius: 25% 10% 25% 0;
   opacity:0.9;
@@ -120,7 +149,7 @@ li:hover ul {
     background-color: #ffffff;  background: linear-gradient(90deg, rgba(162,149,162,1) 32%, rgba(255, 254, 248,0.7) 72%); z-index: 2;
     position:absolute;
     right:2.25vh;
-    top:1vh;
+    top:1.5vh;
     border-top: solid 5px;
     border-right:solid 5px;
     border-color:#8b875b;
