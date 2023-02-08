@@ -2,7 +2,8 @@
 body {
 
   background-color: #637b51;
-
+margin-top:0 0;
+min-height: 100vh;
 }
 
 @font-face {
@@ -25,8 +26,7 @@ nav {
   display: flex;
   flex-direction: row;
   width: 100%;
-  margin-left: 10%;
-  margin-top: 12%;
+  justify-content: center;
 }
 
 nav a {
@@ -37,7 +37,7 @@ nav a {
 
 nav p {
   margin: 0;
-  font-size: 70%;
+  font-size: 3vw;
   font-family: 'opendyslexicregular';
 }
 
@@ -76,15 +76,17 @@ li:hover ul {
   background-color: #04AA6D;
 
 }
+.headline{
+  display: flex;
+  justify-content: center;
+}
 h1{
   font-family: 'opendyslexicregular';
-position:fixed;
 display: inline-block;
   text-shadow:  #b3b3b3;
   text-transform: uppercase;
   color: rgb(0, 0, 0);
   font-size: 110%;
-    margin-left: 0.5%;
     background-color: #ffffff;
 }
   
@@ -149,20 +151,30 @@ width:98%;
     }
 }
 audio{
-width:50%; border:1px solid #8b875b;
+height:8vw;
+width:40vw;
+ border:1px solid #8b875b;
   border-radius: 50px;
   
 }
 
 footer {
-
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  margin-top: auto;
+  bottom:0;
+  justify-content: center;
   border-top:groove 5px #8b875b;
- text-align: center;
-
-
+  align-items: center;
+  padding-right:2vw;
   background: linear-gradient(90deg, rgba(139, 135, 91,1) 32%, rgba(99,123,81,1) 72%);
-}
 
+}
+footer img {
+
+  width: 6vw;
+}
 
 .validator{
   display:inline-block;
