@@ -1,4 +1,38 @@
 
+
+@media (min-width: 680px){
+h1 {
+  font-family: 'opendyslexicregular';
+display: inline-block;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+  font-size: 36px;
+    background-color: #ffffff;
+  
+}}
+
+h1 {
+  font-family: 'opendyslexicregular';
+display: inline-block;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+  font-size: 5vw;
+    background-color: #ffffff;
+  
+}
+
+@media (min-width: 680px){
+  h4  {font-size:20px;}}
+
+h4 {
+  margin: 4vw;
+  font-size: 3vw;
+  font-family: 'opendyslexicregular';
+}
+@media (min-width: 680px){
+  h4  {font-size:20px;}}
+
+
 p {
   margin: 0;
   font-size: 3vw;
@@ -82,14 +116,7 @@ li:hover ul {
   display: flex;
   justify-content: center;
 }
-h1{
-  font-family: 'opendyslexicregular';
-display: inline-block;
-  text-transform: uppercase;
-  color: rgb(0, 0, 0);
-  font-size: 110%;
-    background-color: #ffffff;
-}
+
   
  
 /** Hero_segment- **/
@@ -97,9 +124,11 @@ display: inline-block;
 
 #text_box_landingpage{
 display:flex;
-flex-direction:column;
+position: fixed;
+right: 0;
 width:100%;
-max-width:768px;
+max-height: 650px;
+max-width:850px;
   background: linear-gradient(90deg, rgba(139, 135, 91,1) 32%, rgba(99,123,81,1) 72%);
   border-radius: 25% 10% 25% 0;
   opacity:0.9;
