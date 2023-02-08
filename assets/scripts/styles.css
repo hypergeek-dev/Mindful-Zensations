@@ -1,4 +1,12 @@
 
+p {
+  margin: 0;
+  font-size: 3vw;
+  font-family: 'opendyslexicregular';
+}
+@media (min-width: 680px){
+  p  {font-size:20px;}}
+
 body {
 
   background-color: #637b51;
@@ -33,12 +41,6 @@ nav a {
   background: rgb(99,123,81);
   background: linear-gradient(90deg, rgba(99,123,81,1) 32%, rgba(130,151,114,1) 72%);
   box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
-}
-
-nav p {
-  margin: 0;
-  font-size: 3vw;
-  font-family: 'opendyslexicregular';
 }
 
 ul {
@@ -97,6 +99,7 @@ display: inline-block;
 display:flex;
 flex-direction:column;
 width:100%;
+max-width:768px;
   background: linear-gradient(90deg, rgba(139, 135, 91,1) 32%, rgba(99,123,81,1) 72%);
   border-radius: 25% 10% 25% 0;
   opacity:0.9;
