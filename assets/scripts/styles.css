@@ -35,16 +35,14 @@ h1{
   transform: rotate(-2deg);
   }
   @media (max-width: 768px) {
-    h1{  font-family: 'opendyslexicregular';
-      position: absolute;
-      margin-left:5vh;
-      top:7vh;
-      text-shadow: 5px 5px #b3b3b3;
-      text-transform: uppercase;
-      color: rgb(0, 0, 0);
-      font-size: 400%;
-      background: white;
-      transform: rotate(-2deg);}}
+    h1 {font-family: 'opendyslexicregular';
+    position: absolute;
+    margin-left: 9vh;
+    top: 14vh;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    font-size: 200%;
+    transform: rotate(-1deg);}}
 @media (max-width: 1600px) {
 	h1{
     font-family: 'opendyslexicregular';
@@ -194,7 +192,15 @@ li:hover ul {
     z-index: 6;
   
 }}
-
+@media (max-width: 768px) {
+  #text_box_landingpage {
+font-family: 'opendyslexicregular';
+width: 69vh;
+position: absolute;
+right: 1vh;
+top: 4.5vh;
+z-index: 7;
+  }}
 #text-div{
   font-family: 'opendyslexicregular';
   width:74vh;
