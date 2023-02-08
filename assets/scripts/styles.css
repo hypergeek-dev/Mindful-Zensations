@@ -1,4 +1,4 @@
-/** Based on 1600x992 screen **/
+/** Designed on 1600x992 screen **/
 
 body {
   background-color: #637b51;
@@ -25,15 +25,40 @@ position: sticky;
 h1{
   font-family: 'opendyslexicregular';
   position: absolute;
-  margin-left:3vh;
+  margin-left:5vh;
   top:7vh;
   text-shadow: 5px 5px #b3b3b3;
   text-transform: uppercase;
   color: rgb(0, 0, 0);
-  font-size: 5vh;
+  font-size: 400%;
   background: white;
   transform: rotate(-2deg);
   }
+  @media (max-width: 768px) {
+    h1{  font-family: 'opendyslexicregular';
+      position: absolute;
+      margin-left:5vh;
+      top:7vh;
+      text-shadow: 5px 5px #b3b3b3;
+      text-transform: uppercase;
+      color: rgb(0, 0, 0);
+      font-size: 400%;
+      background: white;
+      transform: rotate(-2deg);}}
+@media (max-width: 1600px) {
+	h1{
+    font-family: 'opendyslexicregular';
+    position: absolute;
+    margin-left:5vh;
+    top:7vh;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    font-size: 200%;
+    transform: rotate(-1deg);
+    }
+}
+
+
 /** Navbar **/
 
 nav {
@@ -45,6 +70,17 @@ nav {
   top:0;
 }
 
+@media (max-width: 768px) {
+  nav {
+  display: inline-block;
+  position: absolute;
+  z-index: 4;
+  right: 0;
+  top: 0;
+  width: auto;
+  width: 80%;
+  }
+}
 nav a {
   background: rgb(99,123,81);
   background: linear-gradient(90deg, rgba(99,123,81,1) 32%, rgba(130,151,114,1) 72%);
@@ -98,6 +134,8 @@ li:hover ul {
 }
 
 /** Hero_segment-**/
+
+
 #text_box_landingpage{
   display:inline-block;
   width:80vh;
@@ -110,6 +148,19 @@ li:hover ul {
   opacity:0.9;
   z-index: 5;
 }
+@media (max-width: 768px) {
+  #text_box_landingpage{
+    display: inline-block;
+    width: 73vh;
+    height: 61.25vh;
+    position: absolute;
+    right: 0.5vh;
+    top: 21.75vh;
+    background: linear-gradient(90deg, rgba(139, 135, 91,1) 32%, rgba(99,123,81,1) 72%);
+    border-radius: 25% 10% 25% 0;
+    opacity: 0.9;
+    z-index: 5;
+  }}
 
   #innerbox-landingpage {
     display:inline-block;
@@ -124,8 +175,25 @@ li:hover ul {
     border-color:#8b875b;
     border-radius: 25% 10% 25% 0;
     z-index: 6;
+  }
+    @media (max-width: 768px) {
+      #innerbox-landingpage {
+    display: inline-block;
+    width: 72.5vh;
+    height: 60vh;
+    background-color: #ffffff;
+    background: linear-gradient(90deg, rgba(162,149,162,1) 32%, rgba(255, 254, 248,0.7) 72%);
+    right: .25vh;
+    position: absolute;
+    right: 0.25vh;
+    top: 1.5vh;
+    border-top: solid 5px;
+    border-right: solid 5px;
+    border-color: #8b875b;
+    border-radius: 25% 10% 25% 0;
+    z-index: 6;
   
-}
+}}
 
 #text-div{
   font-family: 'opendyslexicregular';
@@ -135,6 +203,7 @@ li:hover ul {
   top:2.5vh;
   z-index: 7;
 }
+
 #text-div > h4 {
   font-size: 2.5vh;
   font-weight: 700;
@@ -153,7 +222,7 @@ li:hover ul {
   bottom: 53.5%;
   left: 37%;
   border-radius: 50%;
-  height: 3%;
+  height: 4%;
   width: 3%;
   background: linear-gradient(-45deg, #cc5151, #ff7e38, #F2B1A2, #F17022, #740909);
   background-size: 400% 400%;
