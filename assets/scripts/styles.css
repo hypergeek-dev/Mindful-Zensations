@@ -35,7 +35,7 @@ h4 {
 
 p {
   margin: 0;
-  font-size: 3vw;
+  font-size:0.661rem;
   font-family: 'opendyslexicregular';
 }
 @media (min-width: 680px){
