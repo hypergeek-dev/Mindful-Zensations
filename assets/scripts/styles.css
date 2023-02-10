@@ -210,19 +210,7 @@ footer img {
   height:8vh;
 
 }
-footer div{
-  width:15%;
-}
-footer div1{
-  display:block;
 
-}
-
-footer div2{
-  display:block;
-
-}
-
-footer div3{
-  display:block;
+footer div1 div2 div3 {
+  display:inline-block;
 }
