@@ -210,7 +210,9 @@ footer img {
   height:8vh;
 
 }
-
+footer div{
+  width:15%;
+}
 footer div1{
   display:block;
 
