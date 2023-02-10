@@ -112,7 +112,7 @@ display: inline-block;
     display: inline-block;
       text-transform: uppercase;
       color: rgb(0, 0, 0);
-      font-size: 2rem;
+      font-size: 1.5rem;
         background-color: #ffffff;}}
  
 /** Hero_segment- **/
@@ -121,7 +121,7 @@ display: inline-block;
 #text_box_landingpage{
   display:flex;
   position:fixed;
-  bottom:10vh;
+  bottom:12vh;
   right:0;
     background: linear-gradient(90deg, rgba(139, 135, 91,1) 32%, rgba(99,123,81,1) 72%);
     border-radius: 25% 10% 25% 0;
