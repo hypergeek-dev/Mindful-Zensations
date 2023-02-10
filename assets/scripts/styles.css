@@ -8,9 +8,9 @@ h1 {
 display: inline-block;
   text-transform: uppercase;
   color: rgb(0, 0, 0);
-  font-size: 5vw;
+  font-size: 4rem;
     background-color: #ffffff;
-    margin-top:0.5vh;
+    margin-top:3.5%;
     margin-bottom: auto;
     text-shadow: 0.6vw 0.4vw #a7b1be;
 }
@@ -19,14 +19,14 @@ display: inline-block;
 
 h4 {
   margin: 4vw;
-  font-size: 4vw;
+  font-size: 1rem;
   font-family: 'opendyslexicregular';
 }
 
 
 
 @media (min-width: 700px){
-  h4  {font-size:2vw;
+  h4  {font-size:2rem;
   font-family: 'opendyslexicregular';
 }}
 body {
@@ -69,7 +69,7 @@ nav a {
 }
 nav p {
   margin: 0;
-  font-size: 2.5vw;
+  font-size: 2rem;
   font-family: 'opendyslexicregular';
 text-align: center;
 }
@@ -117,7 +117,7 @@ li:hover ul {
 /** Hero_segment **/
 
 #text_box_landingpage{
-display:inline-block;
+display:flex;
 right: 0;
   background: linear-gradient(90deg, rgba(139, 135, 91,1) 32%, rgba(99,123,81,1) 72%);
   border-radius: 25% 10% 25% 0;
@@ -155,7 +155,7 @@ right: 0;
   }
 #text-div p {
   font-family: 'opendyslexicregular'; 
-font-size: 2.05vh;
+font-size: 1rem;
 
 }
  **/
@@ -197,10 +197,9 @@ width:32vw;
 footer {
   display: flex;
   flex-direction: row;
-  position:float;
+  position:absolute;
+ bottom:0;
   width:100%;
-  bottom:0;
-  margin:0;
   justify-content: center;
   border-top:groove 5px #8B875B;
   align-items: center;
