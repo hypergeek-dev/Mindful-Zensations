@@ -197,20 +197,30 @@ width:32vw;
 footer {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
   position:absolute;
  bottom:0;
   width:100%;
-  justify-content: center;
   border-top:groove 5px #8B875B;
-  align-items: center;
   background: linear-gradient(90deg, rgba(139, 135, 91,1) 32%, rgba(99,123,81,1) 72%);
+  
 }
 footer img {
   max-height:50px;
   height:8vh;
 }
 
-.validator{
-  display:inline-block;
+footer div1{
+  display:block;
+
 }
 
+footer div2{
+  display:block;
+
+}
+
+footer div3{
+  display:block;
+
+}
