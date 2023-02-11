@@ -123,7 +123,11 @@ h1 {
     background-color: #ffffff;
   }
 }
-
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 /** Hero_segment- **/
 
 
@@ -136,7 +140,7 @@ h1 {
   border-radius: 25% 10% 25% 0;
   opacity: 0.9;
   z-index: 5;
-  max-width: 73vw;
+ 
 }
 
 
