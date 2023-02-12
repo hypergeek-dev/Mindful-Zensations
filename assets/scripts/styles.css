@@ -67,6 +67,7 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  
 }
 
 /** Navbar **/
@@ -125,6 +126,10 @@ li:hover ul {
   display: inline-block;
   display: flex;
   justify-content: center;
+  border-radius: 45px;
+
+
+
 }
 
 
@@ -132,20 +137,27 @@ span h1 {
 
   background-image: url("/assets/images/land_page.jpg");
   -webkit-background-clip: text;
+  background-clip: text;
 color: transparent;
   background-size: 200%;
-  font-size: x-large;
+  font-size: larger;
   margin: 1vh 1vh;
+  box-shadow:none;
+  text-shadow: none;
+  border: none;
 }
 
 @media (min-width: 700px) {
-span h1{
+span > h1{
   background-image: url("/assets/images/land_page.jpg");
   -webkit-background-clip: text;
+  background-clip: text;
 color: transparent;
   background-size: 200%;
   font-size: 150%;
   margin: 1vh 1vh;
+  box-shadow:none;
+  text-shadow: none;
 }}
 
 h1 {
@@ -153,9 +165,16 @@ h1 {
   text-transform: uppercase;
   color: rgb(0, 0, 0);
   font-size: 0.9rem;
-  border-radius: 15px;
-  background-color: #ffffff;
+
+  border-radius: 51px;
+  background: #e0e0e0;
+  box-shadow: inset 13px 13px 25px #a8a8a8,
+  inset -13px -13px 25px #ffffff;
+  border: solid;
+  border-color: #8b875b;
+  
   text-shadow: -6px 0px 5px rgba(248, 248, 248, 1);
+ 
 }
 
 
@@ -167,8 +186,8 @@ h1 {
     text-transform: uppercase;
     color: rgb(0, 0, 0);
     font-size: 2rem;
-    background-color: #ffffff;
     text-shadow: -6px 0px 5px rgba(128, 128, 128, 0.66);
+    margin:2v 0;
   }
 }
 
