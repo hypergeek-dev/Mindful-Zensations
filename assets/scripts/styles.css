@@ -37,13 +37,13 @@ h5 {
 
 p {
   margin: 0;
-  font-size: 0.5rem;
+  font-size: 0.6rem;
 
 }
 
 @media (min-width: 680px) {
   p {
-    font-size: 1.3rem;
+    font-size: 1rem;
 
   }
 }
@@ -201,9 +201,8 @@ h1 {
 
 
 #text_box_landingpage {
-  display: flex;
-  position: fixed;
-  max-width: 80%;
+
+  position: absolute;
   max-height:90%;
   right: 0;
   background: linear-gradient(90deg, rgba(139, 135, 91, 1) 32%, rgba(99, 123, 81, 1) 72%);
@@ -214,7 +213,7 @@ h1 {
 }
   @media (min-width: 700px) {
     #text_box_landingpage {
-      max-width: 40%;
+      max-width: 60%;
   }
 }
 
