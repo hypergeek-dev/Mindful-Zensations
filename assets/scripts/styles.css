@@ -185,7 +185,7 @@ h1 {
   background: #e0e0e0;
   box-shadow: inset 13px 13px 25px #a8a8a8,
   inset -13px -13px 25px #ffffff;
-  border: solid;
+
   border-color: #8b875b;
   
   text-shadow: -6px 0px 5px rgba(248, 248, 248, 1);
@@ -223,7 +223,7 @@ h1 {
   background: linear-gradient(90deg, rgba(139, 135, 91, 1) 32%, rgba(99, 123, 81, 1) 72%);
   border-radius: 25% 10% 25% 0;
   opacity: 0.9;
-  z-index: 5;
+  z-index: 3;
   
 }
   @media (min-width: 700px) {
@@ -254,19 +254,19 @@ h1 {
   display: inline-block;
   width: 90%;
   margin-left: 8%;
+  z-index: 1;
 }
 
   /** sun animation **/
   #sun {
-    display: inline-block;
-    position: absolute;
-    top: 43.5%;
+    position: fixed;
+    top: 44.5vh;
     right: 60%;
-    bottom: 53.5%;
-    left: 37%;
+    bottom: auto;
+    left: auto;
     border-radius: 50%;
-    height: 4%;
-    width: 3%;
+    height: 3vh;
+    width: 3vw;
     background: linear-gradient(-45deg, #cc5151, #ff7e38, #F2B1A2, #F17022, #740909);
     background-size: 400% 400%;
     -webkit-box-shadow: 0px 0px 105px 45px rgb(255 126 56 / 90%);
@@ -274,6 +274,7 @@ h1 {
     box-shadow: 0px 0px 105px 45px rgb(255 126 56 / 90%);
     animation: gradient 15s ease infinite;
     filter: blur(5px);
+    z-index: 4;
   }
   
   @keyframes gradient {
