@@ -126,7 +126,7 @@ li:hover ul {
   display: inline-block;
   display: flex;
   justify-content: center;
-  border-radius: 45px;
+  border-radius: 25px;
 
 
 
@@ -210,6 +210,7 @@ h1 {
   border-radius: 25% 10% 25% 0;
   opacity: 0.9;
   z-index: 5;
+  
 }
   @media (min-width: 700px) {
     #text_box_landingpage {
@@ -229,7 +230,10 @@ h1 {
   border-right: solid;
   border-color: #8b875b;
   border-radius: 25% 10% 25% 0;
-  z-index: 6;
+ 
+  background: #e0e0e0;
+  box-shadow: inset 13px 13px 25px #a8a8a8,
+  inset -13px -13px 25px #ffffff;
 }
 
 #text-div {
@@ -238,35 +242,36 @@ h1 {
   margin-left: 8%;
 }
 
-**/ #sun {
-  display: inline-block;
-
-  border-radius: 50%;
-  height: 4%;
-  width: 3%;
-  background: linear-gradient(-45deg, #cc5151, #ff7e38, #F2B1A2, #F17022, #740909);
-  background-size: 400% 400%;
-  -webkit-box-shadow: 0px 0px 105px 45px rgb(255 126 56 / 90%);
-  -moz-box-shadow: 0px 0px 105px 45px rgba(255, 126, 56, 0.9);
-  box-shadow: 0px 0px 105px 45px rgb(255 126 56 / 90%);
-  animation: gradient 15s ease infinite;
-  filter: blur(5px);
-
-
-  @keyframes gradient {
-    0% {
-      background-position: 0% 50%;
-    }
-
-    50% {
-      background-position: 100% 50%;
-    }
-
-    100% {
-      background-position: 0% 50%;
-    }
+  /** sun animation **/
+  #sun {
+    display: inline-block;
+    position: absolute;
+    top: 43.5%;
+    right: 60%;
+    bottom: 53.5%;
+    left: 37%;
+    border-radius: 50%;
+    height: 4%;
+    width: 3%;
+    background: linear-gradient(-45deg, #cc5151, #ff7e38, #F2B1A2, #F17022, #740909);
+    background-size: 400% 400%;
+    -webkit-box-shadow: 0px 0px 105px 45px rgb(255 126 56 / 90%);
+    -moz-box-shadow: 0px 0px 105px 45px rgba(255,126,56,0.9);
+    box-shadow: 0px 0px 105px 45px rgb(255 126 56 / 90%);
+    animation: gradient 15s ease infinite;
+    filter: blur(5px);
   }
-}
+  
+  @keyframes gradient {
+      0% {
+          background-position: 0% 50%;
+      }
+      50% {
+          background-position: 100% 50%;
+      }
+      100% {
+          background-position: 0% 50%;
+      }}
 
 audio {
   height: 5vh;
