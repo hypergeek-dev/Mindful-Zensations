@@ -119,10 +119,10 @@ li:hover ul {
 
 span h1 {
 
-  background-image:
-    url("/assets/images/land_page.jpg");
-  -webkit-background-clip: text;
-  color: transparent;
+  background: url("/assets/images/land_page.jpg");
+  background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   background-size: 200%;
   font-family: 'Fredericka the Great', cursive;
   font-size: x-large;
