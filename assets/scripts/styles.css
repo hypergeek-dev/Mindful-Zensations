@@ -37,7 +37,7 @@ h5 {
 
 p {
   margin: 0;
-  font-size: 0.6rem;
+  font-size: 0.5rem;
 
 }
 
@@ -54,15 +54,30 @@ h4 {
 
 }
 
-@media (min-width: 700px) {
+@media (min-width: 500px) {
   h4 {
-    font-size: 1.5rem;
+    font-size: 1rem;
 
     margin-top: 0;
     margin-bottom: 0;
   }
 }
+@media (min-width: 1200px) {
+  h4 {
+    font-size: 1.3rem;
 
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+@media (min-width: 2000px) {
+  h4 {
+    font-size:1.5rem;
+
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
 header {
   display: flex;
   flex-direction: column;
