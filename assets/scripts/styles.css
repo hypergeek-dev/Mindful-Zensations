@@ -135,7 +135,7 @@ li:hover ul {
 
 span h1 {
 
-  background-image: url("../assets/images/land_page.jpg");
+  background-image: url("../images/land_page.jpg");
   -webkit-background-clip: text;
   background-clip: text;
 color: transparent;
@@ -149,7 +149,7 @@ color: transparent;
 
 @media (min-width: 700px) {
 span > h1{
-  background-image: url("../assets/images/land_page.jpg");
+  background-image: url("../images/land_page.jpg");
   -webkit-background-clip: text;
   background-clip: text;
 color: transparent;
