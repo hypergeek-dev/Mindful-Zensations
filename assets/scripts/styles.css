@@ -272,10 +272,12 @@ audio {
 }
 
 footer {
+  margin-bottom:0;
+  padding-top:2%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   max-height: 8vh;
   width: 100%;
