@@ -6,7 +6,7 @@ This website provides information and resources on mindfulness, meditation, and 
 Mindfulness and meditation have been shown to affect mental health in a number of ways. Research has found that practicing mindfulness and meditation can help reduce symptoms of stress, anxiety, and depression, as well as improve mood, emotional regulation, and cognitive functioning.
 
 
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/assets/Wireframe/Visual-site.jpg" alt="website">
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Visual-site.jpg" alt="website">
 
 ## Features 
 
@@ -14,10 +14,6 @@ Introduction to mindfulness and meditation
 Guide to incorporating mindfulness into daily life
 Thematic and sensoric implementation in the shape of graphic and audio, based on soothing nature sounds.
 
-
-
-
-### Features Left to Implement
  
 
 ## Testing 
@@ -27,7 +23,7 @@ Thematic and sensoric implementation in the shape of graphic and audio, based on
 ### Validator Testing 
 html From line 68, column 15; to line 68, column 20
 css 122		Värdefel : right Alltför många värden eller värden kan kännas igen : 2.5 0.5vh
-  </audio></div>↩   ↩ 
+
 
 
 ### Unfixed Bugs
@@ -82,7 +78,7 @@ This is all in order increase accessibility and by that the range of audience.
 ### Colorscheme
 
 The colorscheme has a triadic approach, based on the color-range from "Heliotrope Gray" to "Purple Navy" as demonstrated below.
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/assets/Wireframe/colorscheme.jpg" alt="Colorscheme">
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/colorscheme.jpg" alt="Colorscheme">
 
 ### colorpalette
 
@@ -92,8 +88,8 @@ The colorscheme has a triadic approach, based on the color-range from "Heliotrop
 
 ### Wireframe
 
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/assets/Wireframe/Phone.png" alt="Phone - Wireframe">
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/assets/Wireframe/Landing page.png" alt="Landing page - Wireframe">
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/assets/Wireframe/Info.png" alt="Info - Wireframe">
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/assets/Wireframe/About Me.png" alt="About Me - Wireframe">
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Phone.png" alt="Phone - Wireframe">
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Landing page.png" alt="Landing page - Wireframe">
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Info.png" alt="Info - Wireframe">
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/AboutMe.png" alt="About Me - Wireframe">
 
