@@ -86,9 +86,9 @@ The colorscheme has a triadic approach, based on the color-range from "Heliotrop
 
 ### colorpalette
 
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/assets/Wireframe/5c3d5b.jpg" alt="Color">
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/assets/Wireframe/8B875b.jpg" alt="Color2">
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/readme-draft/assets/Wireframe/637b51.jpg" alt="Color3">
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/5c3d5b.jpg" alt="Color1">
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/8B875b.jpg" alt="Color2">
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/637b51.jpg" alt="Color3">
 
 ### Wireframe
 
