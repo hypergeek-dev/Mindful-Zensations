@@ -259,11 +259,10 @@ h1 {
 
   /** sun animation **/
   #sun {
+    display: block;
     position: fixed;
     top: 44.5vh;
-    right: 60%;
-    bottom: auto;
-    left: auto;
+    right: 65vw;
     border-radius: 50%;
     height: 3vh;
     width: 3vw;
