@@ -249,25 +249,7 @@ h1 {
   z-index: 1;
 }
 
-  /** sun animation **/
-  #sun {
-    display: block;
-    position: fixed;
-    top: 44.5vh;
-    right: auto;
-    left:96.891px;
-    border-radius: 50%;
-    height: 3vh;
-    width: 3vw;
-    background: linear-gradient(-45deg, #cc5151, #ff7e38, #F2B1A2, #F17022, #740909);
-    background-size: 400% 400%;
-    -webkit-box-shadow: 0px 0px 105px 45px rgb(255 126 56 / 90%);
-    -moz-box-shadow: 0px 0px 105px 45px rgba(255,126,56,0.9);
-    box-shadow: 0px 0px 105px 45px rgb(255 126 56 / 90%);
-    animation: gradient 15s ease infinite;
-    filter: blur(5px);
-    z-index: 4;
-  }
+
   
   @keyframes gradient {
       0% {
