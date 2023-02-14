@@ -10,7 +10,7 @@ Mindfulness and meditation has been shown to affect mental health in a number of
     
     
   -   #### First Time Visitor Goals
-     <br>
+  <br>
 As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation. Our homepage clearly explains purpose and content.<br>
 As a First Time Visitor, I want to be able to easily navigate throughout the site to find content. Our website has a user-friendly navigation menu that makes it easy for you to find the information you need.
 <br>
