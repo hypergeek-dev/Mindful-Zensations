@@ -56,9 +56,6 @@ I decided to correct theese errors by removing h1 from span and changing contain
     </a>
 </p>
 
-
-
-
 ## Deployment
 
 The site is live, Demo: https://hypergeek-dev.github.io/Mindful-Zensations/
@@ -71,7 +68,7 @@ Vecteezy.com<br>
 Istock.com<br>
 Pixabay.com<br>
 Flickr.com<br>
-wallpapersden.com
+and wallpapersden.com
 <br>
 For the sake of practicality I changed the filenames on implementation but here are the original filetitles:
 <br>
@@ -88,9 +85,7 @@ wallpapersden.com_nebula-amazing_5120x2880.jp<br>
 I also like to extend my gratitude towards
 opendyslexic.org for surplying their font.
 
-
 Thank you to all the contributors for making this project possible.
-
 
 ### Content 
 
@@ -110,19 +105,20 @@ This is all in order increase accessibility and by that the range of audience.
 
 The colorscheme has a triadic approach, based on the color-range from "Heliotrope Gray" to "Purple Navy" as demonstrated below.<br>
 <img style="border:0;;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/colorscheme.jpg" alt="Colorscheme">
-
+<br>
 ### colorpalette
-
+<br>
 <img style="border:0;width:100px;height:100px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/5c3d5b.jpg" alt="Color1">
 <img style="border:0;width:100px;height:100px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/8B875b.jpg" alt="Color2">
 <img style="border:0;width:100px;height:100px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/637b51.jpg" alt="Color3">
-
+<br>
 ### Wireframe
-
+<br>
 <img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/Phone.png" alt="Phone - Wireframe">
 <img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/42bdc8c4d19e61000b7aa0cfa87049a06dd71fbd/assets/readme_images/Landing_page.png" alt="Landing page - Wireframe">
 <img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/Info.png" alt="Info - Wireframe">
 <img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/4b8d5dda90153c2f4d07ced954659bbf88a5b461/assets/readme_images/About_Me.png" alt="About Me - Wireframe">
+<br>
 
 ### Future development
 This design has the foundation for several possible development venues:
