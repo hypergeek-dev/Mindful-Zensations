@@ -43,8 +43,7 @@ Basic explanation of meditation<br><br>
 <img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/about_me.jpg" alt="aboutmepage"><br>
 Short description of my background and my reasons for my approach <br><br>
 
-The footer
-The footer with its simple design. Provides links to information on dyslexia and autism, an ambience-audio player and links for my github and linkedin pages.
+The footer with its simple design provides links to information on dyslexia and autism, an ambience-audio player and links for my github and linkedin pages.
 <br><br>
 #### Testing
 I have tested the viewport with digital tools and in real deployment on actual phones, ipads and PC.<br><br>
