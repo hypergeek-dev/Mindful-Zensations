@@ -15,7 +15,9 @@ As a First Time Visitor, I want to easily understand the main purpose of the sit
 As a First Time Visitor, I want to be able to easily navigate throughout the site to find content. Our website has a user-friendly navigation menu that makes it easy for you to find the information you need.
 <br>
 As a First Time Visitor, I  want to locate their social media links to see their followings on social media to determine how trusted and known they are. In the footer I added links for contacting me, as well as links to other organisations touching the topics of inclusion<br><br>
-    -   #### Returning Visitor Goals
+
+- #### Returning Visitor Goals
+<br>
 As a Returning Visitor, I want to get an insight in meditation and mindfulnes. Our website introductory description that can help you get started.<br><br>
 
   -   #### Frequent User Goals
