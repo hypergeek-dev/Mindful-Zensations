@@ -14,18 +14,18 @@ Introduction to mindfulness and meditation<br>
 Guide to incorporating mindfulness into daily life<br>
 Thematic and sensoric implementation in the shape of graphic and audio, based on soothing nature sounds.<br>
 <br>
-Menu
+Menu<br>
 <img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/1ff3a084c25b68200cbe50991bdd191130b32a8d/assets/Wireframe/menu.jpg" alt="menu"><br>
-simple menu with colorchange on hover-effect. No submenus, for enhanced simplicity
+simple menu with colorchange on hover-effect. No submenus.
 <br><br>
 
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/1ff3a084c25b68200cbe50991bdd191130b32a8d/assets/Wireframe/landingpage.jpg" alt="landingpage"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/7279ed8988d7f0d29574d9a935dde3ca46e5204e/assets/Wireframe/landingpage.jpg" alt="landingpage"><br>
  The landingpage introduces the topics and motivates the use of the website<br><br>
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/1ff3a084c25b68200cbe50991bdd191130b32a8d/assets/Wireframe/mindfulness.jpg" alt="mindfulnesspage"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/7279ed8988d7f0d29574d9a935dde3ca46e5204e/assets/Wireframe/landingpage.jpg" alt="mindfulnesspage"><br>
 Basic explanation of mindfulness<br><br>
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/1ff3a084c25b68200cbe50991bdd191130b32a8d/assets/Wireframe/meditation.jpg" alt="meditationpage"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/7279ed8988d7f0d29574d9a935dde3ca46e5204e/assets/Wireframe/landingpage.jpg" alt="meditationpage"><br>
 Basic explanation of meditation<br><br>
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/1ff3a084c25b68200cbe50991bdd191130b32a8d/assets/Wireframe/aboutme.jpg" alt="aboutmepage"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/7279ed8988d7f0d29574d9a935dde3ca46e5204e/assets/Wireframe/landingpage.jpg" alt="aboutmepage"><br>
 Short description of my background and my reasons for my approach to designing the website<br><br>
 I have tested the viewport with digital tools and in real deployment on actual phones, ipads and PC.<br><br>
 
