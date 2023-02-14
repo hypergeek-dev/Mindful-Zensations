@@ -86,14 +86,17 @@ I have based this website solely on HTML and CSS.
     </a>
 </p>
 
-## Deployment
-
+## Deployment<br><br>
+The side is deployed as a Github repository
+<br><br>
+https://github.com/hypergeek-dev/Mindful-Zensations
+<br><br>
 The site is live, Demo: https://hypergeek-dev.github.io/Mindful-Zensations/
-
+<br><br>
 ## Acknowledgement
-
+<br><br>
 This project would not have been possible without the contributions of the following individuals and resources:
-
+<br><br>
 Vecteezy.com<br>
 Istock.com<br>
 Pixabay.com<br>
