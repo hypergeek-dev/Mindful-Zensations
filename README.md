@@ -15,17 +15,17 @@ Guide to incorporating mindfulness into daily life<br>
 Thematic and sensoric implementation in the shape of graphic and audio, based on soothing nature sounds.<br>
 <br>
 Menu
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/landingpage.jpg" alt="menu"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/1ff3a084c25b68200cbe50991bdd191130b32a8d/assets/Wireframe/menu.jpg" alt="menu"><br>
 simple menu with colorchange on hover-effect. No submenus, for enhanced simplicity
 <br><br>
 
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/landingpage.jpg" alt="landingpage"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/1ff3a084c25b68200cbe50991bdd191130b32a8d/assets/Wireframe/landingpage.jpg" alt="landingpage"><br>
  The landingpage introduces the topics and motivates the use of the website<br><br>
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/mindfulness.jpg" alt="mindfulnesspage"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/1ff3a084c25b68200cbe50991bdd191130b32a8d/assets/Wireframe/mindfulness.jpg" alt="mindfulnesspage"><br>
 Basic explanation of mindfulness<br><br>
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/meditation.jpg" alt="meditationpage"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/1ff3a084c25b68200cbe50991bdd191130b32a8d/assets/Wireframe/meditation.jpg" alt="meditationpage"><br>
 Basic explanation of meditation<br><br>
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/aboutme.jpg" alt="aboutmepage"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/1ff3a084c25b68200cbe50991bdd191130b32a8d/assets/Wireframe/aboutme.jpg" alt="aboutmepage"><br>
 Short description of my background and my reasons for my approach to designing the website<br><br>
 I have tested the viewport with digital tools and in real deployment on actual phones, ipads and PC.<br><br>
 
@@ -122,3 +122,8 @@ The colorscheme has a triadic approach, based on the color-range from "Heliotrop
 <img style="border:0;width:300px;height:400px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Info.png" alt="Info - Wireframe">
 <img style="border:0;width:300px;height:400px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/AboutMe.png" alt="About Me - Wireframe">
 
+### Future development
+This design has the foundation for several possible development venues:
+1. A webshop connected with the theme of the site
+2. access-hub for people with special needs for networking with the topics as focus.
+3. Informational site about accessibility online.
