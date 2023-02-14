@@ -64,6 +64,11 @@ Error: Element container not allowed as child of element the body in this contex
 <br>
 I decided to correct theese errors by removing h1 from span and changing container to main.<br>
 
+#### Lighthouse
+<br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/about_me.jpg" alt="aboutmepage"><br>
+
+
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
         src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
