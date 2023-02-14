@@ -160,7 +160,7 @@ color: transparent;
 
 @media (min-width: 700px) {
 span {
-  background-image: url("../images/land_page.jpg");
+  background-image: url("../images/land_page.webp");
   -webkit-background-clip: text;
   background-clip: text;
 color: transparent;
@@ -263,8 +263,8 @@ h1 {
 
 audio {
   height: 5vh;
-  width: 33vw;
-min-width:30px;
+  width: 40vw;
+min-width:35vw;
   border: 1px solid #8b875b;
   border-radius: 50px;
 
@@ -291,7 +291,8 @@ footer a {
 
 footer img {
   margin-bottom:0;
-  max-height:5vh;
+  max-height:4vh;
+  min-width:4vw;
 }
 
 footer div {
