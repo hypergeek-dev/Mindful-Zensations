@@ -21,11 +21,15 @@ Thematic and sensoric implementation in the shape of graphic and audio, based on
 
 
 ### Validator Testing 
-html From line 68, column 15; to line 68, column 20
-css 122		Värdefel : right Alltför många värden eller värden kan kännas igen : 2.5 0.5vh
 
 
 
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+    </a>
+</p>
 ### Unfixed Bugs
 
 

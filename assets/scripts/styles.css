@@ -205,13 +205,13 @@ h1 {
   justify-content: center;
 }
 
-/** Hero_segment- **/
+/** Hero_segment **/
 
 #text_box_landingpage {
 
   position: absolute;
   max-height:90%;
-  right: 0;
+  right: 2vw;
   background: linear-gradient(90deg, rgba(139, 135, 91, 1) 32%, rgba(99, 123, 81, 1) 72%);
   border-radius: 25% 10% 25% 0;
   opacity: 0.9;
@@ -264,7 +264,7 @@ h1 {
 audio {
   height: 5vh;
   width: 33vw;
-
+min-width:30px;
   border: 1px solid #8b875b;
   border-radius: 50px;
 
@@ -272,7 +272,7 @@ audio {
 
 footer {
   margin-bottom:0;
-  padding-top:2%;
+  padding-top:1%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
