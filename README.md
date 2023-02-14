@@ -10,19 +10,44 @@ Mindfulness and meditation have been shown to affect mental health in a number o
 
 ## Features 
 
-Introduction to mindfulness and meditation
-Guide to incorporating mindfulness into daily life
-Thematic and sensoric implementation in the shape of graphic and audio, based on soothing nature sounds.
+Introduction to mindfulness and meditation<br>
+Guide to incorporating mindfulness into daily life<br>
+Thematic and sensoric implementation in the shape of graphic and audio, based on soothing nature sounds.<br>
+<br>
+Menu
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/landingpage.jpg" alt="menu"><br>
+simple menu with colorchange on hover-effect. No submenus, for enhanced simplicity
+<br><br>
 
- 
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/landingpage.jpg" alt="landingpage"><br>
+ The landingpage introduces the topics and motivates the use of the website<br><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/mindfulness.jpg" alt="mindfulnesspage"><br>
+Basic explanation of mindfulness<br><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/meditation.jpg" alt="meditationpage"><br>
+Basic explanation of meditation<br><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/aboutme.jpg" alt="aboutmepage"><br>
+Short description of my background and my reasons for my approach to designing the website<br><br>
+I have tested the viewport with digital tools and in real deployment on actual phones, ipads and PC.<br><br>
 
-## Testing 
-
-
+Among the digital tools I can mention chrome-dev tools and https://ui.dev/amiresponsive
 
 ### Validator Testing 
 
+The CSS validator pointed out a warning but not an error:<br>
 
+URI : TextArea<br>
+150 Property -webkit-background-clip is not a known vendor extension<br>
+151 The value 'text' should no longer be used<br>
+164 Property -webkit-background-clip is not a known vendor extension<br>
+165 The value 'text' should no longer be used<br>
+
+I decided to keep theese, since its not an error and it is functional according to intend.<br>
+
+The HTML validator pointed out the following error:<br>
+Error: Element h1 not allowed as child of element span in this context. (Suppressing further errors from this subtree.)<br>
+Error: Element container not allowed as child of element the body in this context. (Suppressing further errors from this subtree.)<br>
+<br>
+I decided to correct theese errors by removing h1 from span and changing container to main.<br>
 
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
@@ -30,13 +55,13 @@ Thematic and sensoric implementation in the shape of graphic and audio, based on
         alt="Valid CSS!" />
     </a>
 </p>
-### Unfixed Bugs
+
 
 
 
 ## Deployment
 
-
+The site is live, Demo: https://hypergeek-dev.github.io/Mindful-Zensations/
 
 ## Acknowledgement
 
@@ -49,14 +74,14 @@ and Flickr.com
 
 For the sake of practicality I changed the filenames on implementation but here are the original filetitles:
 
-iStock-1157205177 - hero_lp.jpg
-hd-wallpaper-3147697 - rain_hero.jpg
-vecteezy_purple-cosmos-flowers-in-the-garden_2045470 - purpleflowers.jpg
-mountains-190055 - mountains.jpg
-howling-winter-storm-ambient-sounds-6756
-rain-drops-against-window-71990
-forest-birds-summer-sweden-18333
-soft-rain-ambient-111154.mp3
+iStock-1157205177 - hero_lp.jpg<br>
+hd-wallpaper-3147697 - rain_hero.jpg<br>
+vecteezy_purple-cosmos-flowers-in-the-garden_2045470 - purpleflowers.jpg<br>
+mountains-190055 - mountains.jpg<br>
+howling-winter-storm-ambient-sounds-6756<br>
+rain-drops-against-window-71990<br>
+forest-birds-summer-sweden-18333<br>
+soft-rain-ambient-111154.mp3<br>
 
 I also like to extend my gratitude towards
 opendyslexic.org for surplying their font.
@@ -82,18 +107,18 @@ This is all in order increase accessibility and by that the range of audience.
 ### Colorscheme
 
 The colorscheme has a triadic approach, based on the color-range from "Heliotrope Gray" to "Purple Navy" as demonstrated below.
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/colorscheme.jpg" alt="Colorscheme">
+<img style="border:0;width:300px;height:600px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/colorscheme.jpg" alt="Colorscheme">
 
 ### colorpalette
 
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/5c3d5b.jpg" alt="Color1">
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/8B875b.jpg" alt="Color2">
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/637b51.jpg" alt="Color3">
+<img style="border:0;width:300px;height:600px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/5c3d5b.jpg" alt="Color1">
+<img style="border:0;width:300px;height:600px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/8B875b.jpg" alt="Color2">
+<img style="border:0;width:300px;height:600px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/637b51.jpg" alt="Color3">
 
 ### Wireframe
 
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Phone.png" alt="Phone - Wireframe">
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Landing page.png" alt="Landing page - Wireframe">
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Info.png" alt="Info - Wireframe">
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/AboutMe.png" alt="About Me - Wireframe">
+<img style="border:0;width:300px;height:400px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Phone.png" alt="Phone - Wireframe">
+<img style="border:0;width:300px;height:400px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Landing page.png" alt="Landing page - Wireframe">
+<img style="border:0;width:300px;height:400px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Info.png" alt="Info - Wireframe">
+<img style="border:0;width:300px;height:400px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/AboutMe.png" alt="About Me - Wireframe">
 
