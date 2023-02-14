@@ -6,7 +6,7 @@ This website provides information and resources on mindfulness and meditation. T
 Mindfulness and meditation has been shown to affect mental health in a number of ways. Research has found that practicing mindfulness and meditation can help reduce symptoms of stress, anxiety, and depression, as well as improve mood, emotional regulation, and cognitive functioning.
 
 A subtopic on this website is the implementation and importance of accessibility and relevant links are provided<br><br>
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/My_site.jpg" alt="website"><br><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/my_site.jpg" alt="website"><br><br>
     
     
   -   #### First Time Visitor Goals
@@ -144,10 +144,10 @@ The colorscheme has a triadic approach, based on the color-range from "Heliotrop
 <br>
 ### Wireframe
 <br>
-<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/Phone.png" alt="Phone - Wireframe">
-<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/42bdc8c4d19e61000b7aa0cfa87049a06dd71fbd/assets/readme_images/Landing_page.png" alt="Landing page - Wireframe">
-<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/Info.png" alt="Info - Wireframe">
-<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/4b8d5dda90153c2f4d07ced954659bbf88a5b461/assets/readme_images/About_Me.png" alt="About Me - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/phone.png" alt="Phone - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/42bdc8c4d19e61000b7aa0cfa87049a06dd71fbd/assets/readme_images/landing_page.png" alt="Landing page - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/info.png" alt="Info - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/4b8d5dda90153c2f4d07ced954659bbf88a5b461/assets/readme_images/about_me.png" alt="About Me - Wireframe">
 <br>
 
 ### Future development
