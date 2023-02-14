@@ -5,23 +5,23 @@ This website provides information and resources on mindfulness and meditation. T
 
 Mindfulness and meditation has been shown to affect mental health in a number of ways. Research has found that practicing mindfulness and meditation can help reduce symptoms of stress, anxiety, and depression, as well as improve mood, emotional regulation, and cognitive functioning.
 
-
+A subtopic on this website is the implementation and importance of accessibility and relevant links are provided<br><br>
 <img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/My_site.jpg" alt="website"><br><br>
     
     
   -   #### First Time Visitor Goals
   <br>
 As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation. Our homepage clearly explains purpose and content.<br>
-As a First Time Visitor, I want to be able to easily navigate throughout the site to find content. Our website has a user-friendly navigation menu that makes it easy for you to find the information you need.
+As a First Time Visitor, I want to be able to easily navigate throughout the site to find content. The website has a user-friendly navigation menu that makes it easy for you to find the information you need.
 <br>
 As a First Time Visitor, I  want to locate their social media links to see their followings on social media to determine how trusted and known they are. In the footer I added links for contacting me, as well as links to other organisations touching the topics of inclusion<br><br>
 
 - #### Returning Visitor Goals
 <br>
-As a Returning Visitor, I want to get an insight in meditation and mindfulnes. Our website introductory description that can help you get started.<br><br>
+As a Returning Visitor, I want to get an insight in meditation and mindfulnes. The website provides an introductory description that can help you get started.<br><br>
 
   -   #### Frequent User Goals
-As a Frequent User, I want to check to see if there are any newly added meditation techniques, mindfulness practices, or guided meditations. We regularly update our website with new content to keep our users engaged and informed.<br><br>
+As a Frequent User, I want to check to see if there are any newly added meditation techniques, mindfulness practices, or guided meditations. I regularly update our website with new content to keep our users engaged and informed.<br><br>
 
 ## Features 
 <br><br>
@@ -41,7 +41,12 @@ Basic explanation of mindfulness<br><br>
 <img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/meditation_page.jpg" alt="meditationpage"><br>
 Basic explanation of meditation<br><br>
 <img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/about_me.jpg" alt="aboutmepage"><br>
-Short description of my background and my reasons for my approach to designing the website<br><br>
+Short description of my background and my reasons for my approach <br><br>
+
+The footer
+The footer with its simple design. Provides links to information on dyslexia and autism, an ambience-audio player and links for my github and linkedin pages.
+<br><br>
+#### Testing
 I have tested the viewport with digital tools and in real deployment on actual phones, ipads and PC.<br><br>
 
 Among the digital tools I can mention chrome-dev tools and https://ui.dev/amiresponsive <br><br>
@@ -71,7 +76,7 @@ In the beginning I was on a score of 64. <br><br>
 As a result I converted the images from .JPG to WEBP, and I compressed the audio. That increased the score to the above result.
 <br><br>
 
-##### Tecknology
+##### Technology
 I have based this website solely on HTML and CSS.
 
 
