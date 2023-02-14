@@ -121,7 +121,7 @@ The colorscheme has a triadic approach, based on the color-range from "Heliotrop
 <img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/Phone.png" alt="Phone - Wireframe">
 <img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/42bdc8c4d19e61000b7aa0cfa87049a06dd71fbd/assets/readme_images/Landing_page.png" alt="Landing page - Wireframe">
 <img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/Info.png" alt="Info - Wireframe">
-<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/18a25c214bc1556d17ab7e19efc1d7dabf11efb6/assets/readme_images/About_Me.png" alt="About Me - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/4b8d5dda90153c2f4d07ced954659bbf88a5b461/assets/readme_images/About_Me.png" alt="About Me - Wireframe">
 
 ### Future development
 This design has the foundation for several possible development venues:
