@@ -119,9 +119,9 @@ The colorscheme has a triadic approach, based on the color-range from "Heliotrop
 ### Wireframe
 
 <img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/Phone.png" alt="Phone - Wireframe">
-<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/Landing page.png.png" alt="Landing page - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/18a25c214bc1556d17ab7e19efc1d7dabf11efb6/assets/readme_images/About Me.png" alt="Landing page - Wireframe">
 <img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/Info.png" alt="Info - Wireframe">
-<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/fbb97e429a2bc6eb664d9aea1db8b9bff45e066a/assets/readme_images/About Me.png" alt="About Me - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/18a25c214bc1556d17ab7e19efc1d7dabf11efb6/assets/readme_images/About Me.png" alt="About Me - Wireframe">
 
 ### Future development
 This design has the foundation for several possible development venues:
