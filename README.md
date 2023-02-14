@@ -6,7 +6,7 @@ This website provides information and resources on mindfulness, meditation, and 
 Mindfulness and meditation have been shown to affect mental health in a number of ways. Research has found that practicing mindfulness and meditation can help reduce symptoms of stress, anxiety, and depression, as well as improve mood, emotional regulation, and cognitive functioning.
 
 
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/4a08069ebe344f549c94d4d986392da17dde0459/assets/readme_images/My_site.jpg" alt="website">
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/My_site.jpg" alt="website">
 
 ## Features 
 
@@ -15,17 +15,17 @@ Guide to incorporating mindfulness into daily life<br>
 Thematic and sensoric implementation in the shape of graphic and audio, based on soothing nature sounds.<br>
 <br>
 Menu<br>
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/1ff3a084c25b68200cbe50991bdd191130b32a8d/assets/readme_images/menu.jpg" alt="menu"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/menu.jpg" alt="menu"><br>
 simple menu with colorchange on hover-effect. No submenus.
 <br><br>
 
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/7279ed8988d7f0d29574d9a935dde3ca46e5204e/assets/readme_images/landingpage.jpg" alt="landingpage"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/landingpage.jpg" alt="landingpage"><br>
  The landingpage introduces the topics and motivates the use of the website<br><br>
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/7279ed8988d7f0d29574d9a935dde3ca46e5204e/assets/readme_images/landingpage.jpg" alt="mindfulnesspage"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/mindfulness_page.jpg" alt="mindfulnesspage"><br>
 Basic explanation of mindfulness<br><br>
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/7279ed8988d7f0d29574d9a935dde3ca46e5204e/assets/readme_images/landingpage.jpg" alt="meditationpage"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/meditation_page.jpg" alt="meditationpage"><br>
 Basic explanation of meditation<br><br>
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/7279ed8988d7f0d29574d9a935dde3ca46e5204e/assets/readme_images/landingpage.jpg" alt="aboutmepage"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/about_me.jpg" alt="aboutmepage"><br>
 Short description of my background and my reasons for my approach to designing the website<br><br>
 I have tested the viewport with digital tools and in real deployment on actual phones, ipads and PC.<br><br>
 
@@ -108,19 +108,19 @@ This is all in order increase accessibility and by that the range of audience.
 ### Colorscheme
 
 The colorscheme has a triadic approach, based on the color-range from "Heliotrope Gray" to "Purple Navy" as demonstrated below.<br>
-<img style="border:0;;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/readme_images/colorscheme.jpg" alt="Colorscheme">
+<img style="border:0;;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/colorscheme.jpg" alt="Colorscheme">
 
 ### colorpalette
 
-<img style="border:0;width:100px;height:100px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/readme_images/5c3d5b.jpg" alt="Color1">
-<img style="border:0;width:100px;height:100px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/readme_images/8B875b.jpg" alt="Color2">
-<img style="border:0;width:100px;height:100px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/readme_images/637b51.jpg" alt="Color3">
+<img style="border:0;width:100px;height:100px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/5c3d5b.jpg" alt="Color1">
+<img style="border:0;width:100px;height:100px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/8B875b.jpg" alt="Color2">
+<img style="border:0;width:100px;height:100px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/637b51.jpg" alt="Color3">
 
 ### Wireframe
 
-<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/readme_images/Phone.png" alt="Phone - Wireframe">
-<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/readme_images/Landing page.png" alt="Landing page - Wireframe">
-<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/readme_images/Info.png" alt="Info - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/Phone.png" alt="Phone - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/Landing page.png.png" alt="Landing page - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/Info.png" alt="Info - Wireframe">
 <img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/fbb97e429a2bc6eb664d9aea1db8b9bff45e066a/assets/readme_images/About Me.png" alt="About Me - Wireframe">
 
 ### Future development
