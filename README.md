@@ -66,7 +66,13 @@ I decided to correct theese errors by removing h1 from span and changing contain
 
 #### Lighthouse
 <br>
-<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/about_me.jpg" alt="aboutmepage"><br>
+<img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e466561c29da28784457bd46a18778c10998cef6/assets/readme_images/lighthouse.jpg" alt="Lighthouse"><br>
+In the beginning I was on a score of 64. <br><br>
+As a result I converted the images from .JPG to WEBP, and I compressed the audio. That increased the score to the above result.
+<br><br>
+
+##### Tecknology
+I have based this website solely on HTML and CSS.
 
 
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
