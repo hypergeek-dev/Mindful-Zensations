@@ -67,13 +67,13 @@ The site is live, Demo: https://hypergeek-dev.github.io/Mindful-Zensations/
 
 This project would not have been possible without the contributions of the following individuals and resources:
 
-Vecteezy.com
-Istock.com
-Pixabay.com
-and Flickr.com
-
+Vecteezy.com<br>
+Istock.com<br>
+Pixabay.com<br>
+and Flickr.com<br>
+<br>
 For the sake of practicality I changed the filenames on implementation but here are the original filetitles:
-
+<br>
 iStock-1157205177 - hero_lp.jpg<br>
 hd-wallpaper-3147697 - rain_hero.jpg<br>
 vecteezy_purple-cosmos-flowers-in-the-garden_2045470 - purpleflowers.jpg<br>
@@ -82,6 +82,7 @@ howling-winter-storm-ambient-sounds-6756<br>
 rain-drops-against-window-71990<br>
 forest-birds-summer-sweden-18333<br>
 soft-rain-ambient-111154.mp3<br>
+wallpapersden.com_nebula-amazing_5120x2880.jp<br>
 
 I also like to extend my gratitude towards
 opendyslexic.org for surplying their font.
@@ -107,20 +108,20 @@ This is all in order increase accessibility and by that the range of audience.
 ### Colorscheme
 
 The colorscheme has a triadic approach, based on the color-range from "Heliotrope Gray" to "Purple Navy" as demonstrated below.
-<img style="border:0;width:300px;height:600px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/colorscheme.jpg" alt="Colorscheme">
+<img style="border:0;;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/colorscheme.jpg" alt="Colorscheme">
 
 ### colorpalette
 
-<img style="border:0;width:300px;height:600px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/5c3d5b.jpg" alt="Color1">
-<img style="border:0;width:300px;height:600px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/8B875b.jpg" alt="Color2">
-<img style="border:0;width:300px;height:600px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/637b51.jpg" alt="Color3">
+<img style="border:0;width:100px;height:200px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/5c3d5b.jpg" alt="Color1">
+<img style="border:0;width:100px;height:200px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/8B875b.jpg" alt="Color2">
+<img style="border:0;width:100px;height:200px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/637b51.jpg" alt="Color3">
 
 ### Wireframe
 
-<img style="border:0;width:100px;height:150px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Phone.png" alt="Phone - Wireframe">
-<img style="border:0;width:100px;height:150px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Landing page.png" alt="Landing page - Wireframe">
-<img style="border:0;width:100px;height:150px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Info.png" alt="Info - Wireframe">
-<img style="border:0;width:100px;height:150px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/AboutMe.png" alt="About Me - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Phone.png" alt="Phone - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Landing page.png" alt="Landing page - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/Info.png" alt="Info - Wireframe">
+<img style="border:0;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/fbb97e429a2bc6eb664d9aea1db8b9bff45e066a/assets/Wireframe/About Me.png" alt="About Me - Wireframe">
 
 ### Future development
 This design has the foundation for several possible development venues:
