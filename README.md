@@ -70,7 +70,8 @@ This project would not have been possible without the contributions of the follo
 Vecteezy.com<br>
 Istock.com<br>
 Pixabay.com<br>
-and Flickr.com<br>
+Flickr.com<br>
+wallpapersden.com
 <br>
 For the sake of practicality I changed the filenames on implementation but here are the original filetitles:
 <br>
