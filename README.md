@@ -3,7 +3,7 @@
 
 This website provides information and resources on mindfulness, meditation, and references to psychological reading material. The aim is to educate and empower individuals to improve their mental health and overall well-being.
 
-Mindfulness and meditation have been shown to affect mental health in a number of ways. Research has found that practicing mindfulness and meditation can help reduce symptoms of stress, anxiety, and depression, as well as improve mood, emotional regulation, and cognitive functioning.
+Mindfulness and meditation has been shown to affect mental health in a number of ways. Research has found that practicing mindfulness and meditation can help reduce symptoms of stress, anxiety, and depression, as well as improve mood, emotional regulation, and cognitive functioning.
 
 
 <img src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/bc8de70b9875c2448313e64a114b97f7ffce5440/assets/readme_images/My_site.jpg" alt="website">
@@ -69,9 +69,9 @@ Istock.com<br>
 Pixabay.com<br>
 Flickr.com<br>
 and wallpapersden.com
-<br>
-For the sake of practicality I changed the filenames on implementation but here are the original filetitles:
-<br>
+<br><br>
+For the sa<br>ke of practicality I changed the filenames on implementation but here are the original filetitles:
+<br><br>
 iStock-1157205177 - hero_lp.jpg<br>
 hd-wallpaper-3147697 - rain_hero.jpg<br>
 vecteezy_purple-cosmos-flowers-in-the-garden_2045470 - purpleflowers.jpg<br>
