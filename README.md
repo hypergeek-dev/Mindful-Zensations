@@ -1,7 +1,7 @@
 # Mindful-Zensations
 
 
-This website provides information and resources on mindfulness, meditation, and references to psychological reading material. The aim is to educate and empower individuals to improve their mental health and overall well-being.
+This website provides information and resources on mindfulness and meditation. The aim is to educate and empower individuals to improve their mental health and overall well-being.
 
 Mindfulness and meditation has been shown to affect mental health in a number of ways. Research has found that practicing mindfulness and meditation can help reduce symptoms of stress, anxiety, and depression, as well as improve mood, emotional regulation, and cognitive functioning.
 
