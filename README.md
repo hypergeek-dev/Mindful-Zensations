@@ -107,14 +107,14 @@ This is all in order increase accessibility and by that the range of audience.
 
 ### Colorscheme
 
-The colorscheme has a triadic approach, based on the color-range from "Heliotrope Gray" to "Purple Navy" as demonstrated below.
+The colorscheme has a triadic approach, based on the color-range from "Heliotrope Gray" to "Purple Navy" as demonstrated below.<br>
 <img style="border:0;;width:30%;" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/e851bbb9a07c555a3046a470207daa649dd3494f/assets/Wireframe/colorscheme.jpg" alt="Colorscheme">
 
 ### colorpalette
 
-<img style="border:0;width:100px;height:200px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/5c3d5b.jpg" alt="Color1">
-<img style="border:0;width:100px;height:200px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/8B875b.jpg" alt="Color2">
-<img style="border:0;width:100px;height:200px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/637b51.jpg" alt="Color3">
+<img style="border:0;width:100px;height:100px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/5c3d5b.jpg" alt="Color1">
+<img style="border:0;width:100px;height:100px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/8B875b.jpg" alt="Color2">
+<img style="border:0;width:100px;height:100px" src="https://github.com/hypergeek-dev/Mindful-Zensations/blob/6e29b42de9a730897edf4889bf49ea4c2a11c835/assets/Wireframe/637b51.jpg" alt="Color3">
 
 ### Wireframe
 
