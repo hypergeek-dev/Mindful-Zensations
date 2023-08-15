@@ -91,7 +91,7 @@ The side is deployed as a Github repository
 <br><br>
 https://github.com/hypergeek-dev/Mindful-Zensations
 <br><br>
-The site is live, Demo: https://hypergeek-dev.github.io/Mindful-Zensations/
+The site is live, Demo: [https://hypergeek-dev.github.io/Mindful-Zensations/](https://hypergeek-dev.github.io/Mindful-Zensations/)
 <br><br>
 ## Acknowledgement
 <br><br>
